@@ -1,15 +1,15 @@
-# Desafio03Gostack
+# ⭐Desafio03Gostack
 Desafio 03: Conceitos do React Native.
 Este Documento contém algumas anotações sobre o Desafio e as Linguagens utilizadas no Projeto.
 
-# React Native
+# ⭐React Native
 
 - React native e  a versao do react para desenvolvimento mobile.
 - Multi-plataforma: rodar o mesmo codigo no Android e IOS, com caracteristicas diferentes.
 - Produz interface nativa, converte em codigo utilizado.
 - Plataforma trocando para o React Native.
 
-## Arquitetura.
+## ⭐Arquitetura.
 
 Começa pelo codigo JavaScript.
 
@@ -19,7 +19,7 @@ Chegando se torna um Bundle.
 
 Apos o bundle, iremos para Bridge, comunicação entre o codigo JS para o codigo nativo do sistesma.(por isso react native).
 
-# Sintaxe
+# ⭐Sintaxe
 
 Mesma declaracao de componentes do web.
 
@@ -31,7 +31,7 @@ Cada componente e elemento tem seu estilo,  ou seja uma representacao de si mesm
 
 Sintaxe de edicao parecida com CSS, somente com edicao diferente.
 
-## EXPO
+## ⭐EXPO
 
 Conjunto de funcionalidades prontas para utilizar no React Native.(camera, video, integracoes)
 
@@ -41,3 +41,12 @@ Nao precisa configurar um emulador.
     - Tem limitacoes sobre o codigo nativo
     - Bibliotecas sem suporte com expo
     - Da pra ter as funcionalidades do expo sem utiliza-lo.(somente buscando separadamente)
+    
+    ### ⭐Tecnologias Utilizadas:
+
+- React-Native
+- React
+- Es-lint
+- Java-Script
+- TypeScript
+- Node
