@@ -1,3 +1,5 @@
+![https://fiqueemcasa.nic.ifrn.edu.br/img/servicos/rock.png](https://fiqueemcasa.nic.ifrn.edu.br/img/servicos/rock.png)
+
 # ⭐Desafio03Gostack
 Desafio 03: Conceitos do React Native.
 Este Documento contém algumas anotações sobre o Desafio e as Linguagens utilizadas no Projeto.
